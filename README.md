@@ -1,4 +1,4 @@
-<img align="center"  height="400" width="960" src="assets/banner.png"  />
+<img align="center"  height="200" width="489" src="assets/banner.png"  />
 
 ###
 

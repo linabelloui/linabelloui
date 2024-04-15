@@ -1,3 +1,7 @@
+<img align="center" src="assets/banner.png"  />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=linabelloui&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linabelloui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -5,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/a4/17/4a/a4174ab9e24f656e1c86c8328387475f.jpg"  />
+<img align="right" height="160" src="https://i.pinimg.com/564x/a4/17/4a/a4174ab9e24f656e1c86c8328387475f.jpg"  />
 
 ###
 

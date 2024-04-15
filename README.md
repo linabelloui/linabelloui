@@ -1,4 +1,4 @@
-<img align="center" src="assets/banner.png"  />
+<img align="center"  height="400" width="960" src="assets/banner.png"  />
 
 ###
 
@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/linabelloui/linabelloui/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/linabelloui/linabelloui/output/snake.svg" alt="Snake animation" />
 
 ###
